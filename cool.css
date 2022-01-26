@@ -1,0 +1,15 @@
+header {
+background: #6930C3;
+text-align: center;
+border: thick double;
+margin: 15px;
+}
+p {font-size: 30px;
+    text-align: center;
+    font-family: fantasy;
+}
+
+img {max-width: 20%;
+     
+}
+a {text-align: center;}
